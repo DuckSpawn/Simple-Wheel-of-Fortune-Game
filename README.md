@@ -1,2 +1,2 @@
-# Simple---Wheel-of-Fortune
+# Simple-Wheel-of-Fortune
 A simple game called Wheel of Fortune
